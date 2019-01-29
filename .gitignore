@@ -25,6 +25,7 @@ target/
 
 ### logs ####
 /logs/
+/node_modules/
 *.log
 
 ### temp ignore ###
